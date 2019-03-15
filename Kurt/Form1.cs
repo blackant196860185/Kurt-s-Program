@@ -40,7 +40,7 @@ namespace Kurt
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Welcome to Kurts Program");
-            MessageBox.Show("This is Version 10.0.0.0");
+            MessageBox.Show("This is Version 11.0.0.0");
             MessageBox.Show("© 2019 Kurt Devilbiss All Rights Reserved");
         }
 

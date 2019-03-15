@@ -186,7 +186,7 @@
             this.MinimizeBox = false;
             this.MinimumSize = new System.Drawing.Size(928, 600);
             this.Name = "Form1";
-            this.Text = "Kurt";
+            this.Text = "Kurt\'s Program V11.0.0.0";
             this.TopMost = true;
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.menuStrip1.ResumeLayout(false);
